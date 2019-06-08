@@ -1,0 +1,16 @@
+{
+  "name": "slug",
+  "url": "https://github.com/Aurel300/hx-slug",
+  "license": "MIT",
+  "tags": [
+    "slug",
+    "url"
+  ],
+  "description": "",
+  "version": "0.0.1",
+  "classPath": "src/",
+  "releasenote": "",
+  "contributors": [
+    "Aurel300"
+  ]
+}
